@@ -18,3 +18,8 @@ Git
 ===
 
 - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+
+Talks
+===
+
+- [Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://youtu.be/a8W5VVGO-jA)
