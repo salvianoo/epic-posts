@@ -23,3 +23,4 @@ Talks
 ===
 
 - [Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://youtu.be/a8W5VVGO-jA)
+- [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://youtu.be/8aGhZQkoFbQ)
